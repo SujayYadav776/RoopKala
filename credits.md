@@ -49,7 +49,9 @@ Replace every one of these before publishing:
   (`RK-S-101` … `RK-D-504`).
 - **Prices, list prices and discount percentages** — plausible INR bands, not real.
 - **Fabric descriptions, sizes, stock levels and "where it hangs"** on the product page.
-- **Phone number** `+91 97090 41200` and **email** `kaarigar@roopkala.in`.
+- **Contact details have been removed at the owner's request.** There is currently no phone number,
+  email or WhatsApp link anywhere on the site. Enquiries route to the catalogue request form and to
+  the counter itself. Add real contact details deliberately, not by pasting placeholders back in.
 - **The address** — "Ground Floor, Shastri Maidan Road, Near Aish Bagh Crossing,
   Muzaffarpur 842001" is a plausible-sounding construction, **not a verified
   location**. Do not put it on Google Maps or in the Maps links until it is real.
@@ -88,9 +90,10 @@ privacy notice. To self-host, download the two families and replace the `@import
 with local `@font-face` rules.
 
 The two "Open in Maps" links point at a Google Maps search for the placeholder
-address. The WhatsApp, `tel:` and `mailto:` links use the placeholder contact
-details. The catalogue request form submits nowhere — it only shows a confirmation
-message locally.
+address. There are no phone, email or WhatsApp links anywhere on the site — they
+were removed by request, and all enquiry calls-to-action now route to the
+catalogue request form or to the counter. That form submits nowhere; it only shows
+a confirmation message locally.
 
 ---
 

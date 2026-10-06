@@ -10,10 +10,6 @@ window.RK = (function () {
     city: 'Muzaffarpur, Bihar',
     line1: 'RoopKala, Ground Floor, Shastri Maidan Road',
     line2: 'Near Aish Bagh Crossing, Muzaffarpur, Bihar 842001',
-    phone: '+91 97090 41200',
-    phoneHref: '+919709041200',
-    whatsapp: '+91 97090 41200',
-    email: 'kaarigar@roopkala.in',
     hours: [
       ['Monday to Friday', '10:30 am &ndash; 8:30 pm'],
       ['Saturday &amp; Sunday', '10:00 am &ndash; 9:00 pm'],
